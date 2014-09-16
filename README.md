@@ -5,3 +5,9 @@
 另外，本书的每个更新所修正的内容也将记录在 [Release Note 页面](https://github.com/swifter-tips/Public-Issues/wiki/Release-Note)。
 
 一般来说本书的读者才会利用到这个项目，如果您对本书感兴趣，可以访问[这本书的网站](http://swifter.tips)以及[订购页面](http://swifter.tips/buy/)了解更多的信息。
+
+---
+
+王巍 (onevcat) 
+
+2014 年 9 月 16 日
